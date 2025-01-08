@@ -25,4 +25,13 @@ worldometer_data.csv - Latest data from https://www.worldometers.info/</br>
  6.Clustered column chart  used to visualize 'Total cases,Recoverd,Active cases and death by WHO Region'.</br>
  7.'Sum of Death\ 100 Recoverd and sum of death\100 cases' are represented by clustured colomn charts.<\br>
  8.Gauge used to visualize 'Average confirmed case daily' and 'Average recoverd cases daily' </br>
+
+
+
+ ![covid_19_Image1](https://github.com/user-attachments/assets/2f6e1322-b117-4815-a297-67cf9f4334bc)
+ ![covid_19_Image2](https://github.com/user-attachments/assets/002e14da-a22c-48f8-a5cd-6a47f7aba7e6)
+
+ 
+
+
  
