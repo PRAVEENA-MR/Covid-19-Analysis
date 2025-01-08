@@ -28,7 +28,10 @@ worldometer_data.csv - Latest data from https://www.worldometers.info/</br>
 
 
 
- ![covid_19_Image1](https://github.com/user-attachments/assets/2f6e1322-b117-4815-a297-67cf9f4334bc)
+ ![covid_19_Image1](https://github.com/user-attachments/assets/2f6e1322-b117-4815-a297-67cf9f4334bc)</br>
+
+
+ 
  ![covid_19_Image2](https://github.com/user-attachments/assets/002e14da-a22c-48f8-a5cd-6a47f7aba7e6)
 
  
