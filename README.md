@@ -20,5 +20,6 @@ worldometer_data.csv - Latest data from https://www.worldometers.info/</br>
  1.To build visuals to represent total number of 'Active cases','Recovered','Deaths' and 'New cases' Card is used. </br>
  2.By using Slicer, 'Country\Region' and 'Date' are represented.The date from january 2020 to July 2020, The Country\Region as listed in the dataset.</br>
  3.Line charts are used to visualize 'Active and Confirmed cases by months' and 'Deaths and Recovered by months'.</br>
- 4.Most effected 10 countries are represented using Pie charts.</br>
- 5.
+ 4.'Most effected 10 countries' are represented using clustered column chart.</br>
+ 5.To visualize 'Active cases by WHO region' used pie chart </br>
+ 6.Clustered column 
